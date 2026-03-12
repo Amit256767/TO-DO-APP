@@ -1,8 +1,8 @@
 # Hi 👋, I'm Amit 
 
-🎓 BTech Student  
+🎓 BTech Computerscience & Engineering  
 💻 Learning Web Development (HTML, CSS, JavaScript)  
-🚀 Interested in AI and Chemical Engineering 
+🚀  
 
 ## Skills
 - HTML
