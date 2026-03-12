@@ -1,8 +1,8 @@
-# Hi 👋, I'm Amit Kumar
+# Hi 👋, I'm Amit 
 
 🎓 BTech Student  
 💻 Learning Web Development (HTML, CSS, JavaScript)  
-🚀 Interested in AI and Chemical Engineering  
+🚀 Interested in AI and Chemical Engineering 
 
 ## Skills
 - HTML
@@ -12,8 +12,7 @@
 
 ## Projects
 - To Do App (HTML, CSS, JavaScript)
-- Portfolio Website
-
+protifoli website
 ## Contact
-📧 Email: your email  
+📧 Email: amitutsana@gmail.com
 🔗 LinkedIn: your link
