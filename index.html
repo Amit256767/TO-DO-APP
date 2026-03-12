@@ -1,1 +1,39 @@
+<head>
+<title>To Do App</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<h1>My To Do App</h1>
+
+<input type="text" id="taskInput">
+<button onclick="addTask()">Add Task</button>
+
+<ul id="taskList"></ul>
+
+<script src="script.js"></script>
+
+</body>
+<!DOCTYPE html>
+<html>
+<head>
+<title>To Do App</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1>My To Do App</h1>
+
+<input type="text" id="taskInput" placeholder="Enter a task">
+
+<button onclick="addTask()">Add Task</button>
+
+<ul id="taskList"></ul>
+
+<script src="script.js"></script>
+
+</body>
+</html>
