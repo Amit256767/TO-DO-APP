@@ -1,18 +1,41 @@
-# Hi 👋, I'm Amit 
+# 📝 To-Do App
 
-🎓 BTech Computerscience & Engineering  
-💻 Learning Web Development (HTML, CSS, JavaScript)  
-🚀  
+A simple and user-friendly To-Do App that helps users manage daily tasks efficiently.  
+Users can add tasks, mark them as completed, and delete tasks easily.
 
-## Skills
+## 🚀 Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Tasks remain saved even after refreshing the page
+- Clean and responsive UI
+
+## 🛠 Technologies Used
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub
+- Local Storage (for saving tasks)
 
-## Projects
-- To Do App (HTML, CSS, JavaScript)
-protifoli website
-## Contact
-📧 Email: amitutsana@gmail.com
-🔗 LinkedIn: your link
+## 📂 Project Structure
+To-Do-App/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+## ▶️ How to Run the Project
+1. Download or clone the repository
+2. Open the project folder
+3. Run the **index.html** file in your browser
+
+## 📸 Screenshot
+(Add screenshot of your project here)
+
+## 💡 Future Improvements
+- Add task deadlines
+- Add task categories
+- Dark mode
+
+## 👨‍💻 Author
+Amit
