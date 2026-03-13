@@ -29,9 +29,6 @@ To-Do-App/
 2. Open the project folder
 3. Run the **index.html** file in your browser
 
-## 📸 Screenshot
-(Add screenshot of your project here)
-
 ## 💡 Future Improvements
 - Add task deadlines
 - Add task categories
